@@ -20,7 +20,7 @@ export default function IndexPage() {
     //   <StickyProvider>
     //     <Layout>
     <Fragment>
-      <SEO title="Vocabulary Builder by Zencoder" />
+      <SEO title="Vocabulary Builder by Zenscholar" />
       <Banner />
       {/* <BoostAgencies /> */}
       {/* <Services /> */}
