@@ -6,3 +6,5 @@ const optimizedImages = require("next-optimized-images");
 // };
 
 module.exports = withPlugins([optimizedImages]);
+
+/////////  This is the error related to netlify
